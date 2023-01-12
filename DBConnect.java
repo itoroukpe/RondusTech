@@ -4,3 +4,5 @@ Steps in learning Git
 2. Local version control system
 3. central version control system
 4. distributed version control system
+
+And other version control systems
