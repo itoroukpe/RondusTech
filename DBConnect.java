@@ -6,3 +6,4 @@ Steps in learning Git
 4. distributed version control system
 
 And other version control systems
+Yes, Git is different from any other VCS
